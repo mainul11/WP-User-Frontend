@@ -11,6 +11,8 @@ The best frontend plugin for WordPress. Users can create, edit, delete, build pr
 
 == Description ==
 
+= The Ultimate Frontend Solution for WordPress =
+
 The forms gives users the ability to create new posts, edit their profile all from the site frontend, so that the user does not need to enter the backend admin panel to do action.
 
 = The best free plugin with most features =
